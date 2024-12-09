@@ -1,4 +1,4 @@
-# Crv Multiple Options
+# Curve Multiple Options
 
 **Streamline the creation, customization, and management of curve shapes in Autodesk Maya with an intuitive PyQt-based tool.**
 

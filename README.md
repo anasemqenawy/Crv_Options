@@ -17,6 +17,10 @@ Crv Multiple Options is a powerful, lightweight script tailored to enhance produ
 
 - **Additional Utilities**  
   Colorize, scale, and fine-tune curve shapes directly within the UI to meet specific project requirements.
+
+## UI Template
+![Sample Image](CrvOptionsUI.png)
+
 ## Installation
 Download and place the folder Copy the crv_options folder into: C:\Users<username>\Documents\maya\scripts
 Run the script in Maya Script Editor:

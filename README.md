@@ -1,6 +1,6 @@
 # Curve Multiple Options
 
-**Streamline the creation, customization, and management of curve shapes in Autodesk Maya with an intuitive PyQt-based tool.**
+**Curve creation, replacement, colorize, mirror and management of curve shapes in Autodesk Maya with an intuitive PyQt-based tool.**
 
 ## Overview
 Crv Multiple Options is a powerful, lightweight script tailored to enhance productivity in Autodesk Maya. Whether you're creating new curve shapes, replacing existing ones, or modifying them with precision, this tool provides a seamless workflow to handle complex tasks effortlessly.

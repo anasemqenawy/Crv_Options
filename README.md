@@ -17,6 +17,24 @@ Crv Multiple Options is a powerful, lightweight script tailored to enhance produ
 
 - **Additional Utilities**  
   Colorize, scale, and fine-tune curve shapes directly within the UI to meet specific project requirements.
+## Installation
+Download and place the folder Copy the crv_options folder into: C:\Users<username>\Documents\maya\scripts
+Run the script in Maya Script Editor:
+```python
+import crv_options.main as main
+from crv_options.main import CurveOptionsMain
+
+if __name__ == "__main__":
+    try:
+        global _main_
+        _main_.close()
+        _main_.deleteLater()
+
+    except:
+        pass
+    _main_ = CurveOptionsMain()
+    _main_.show()
+```
 
 ## Usage
 1. Execute the script in Autodesk Maya to launch the Crv Multiple Options UI.
